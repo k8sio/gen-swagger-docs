@@ -1,0 +1,1 @@
+FROM gcr.io/google-containers/gen-swagger-docs:v3
